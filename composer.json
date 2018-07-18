@@ -53,7 +53,8 @@
     "wpackagist-plugin/widget-logic": "dev-trunk",
     "wpackagist-plugin/woocommerce": "dev-trunk",
     "wpackagist-plugin/wp-events-manager": "dev-trunk",
-    "wpackagist-plugin/integrate-contact-form-7-and-aweber": "dev-trunk"
+    "wpackagist-plugin/integrate-contact-form-7-and-aweber": "dev-trunk",
+    "wpackagist-plugin/formstack": "dev-trunk"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"
